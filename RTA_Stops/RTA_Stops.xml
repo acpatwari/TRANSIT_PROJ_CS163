@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>RTA Bus Stops</title>
+                <onlink>https://gis.massdot.state.ma.us/arcgis/rest/services/Multimodal/RTAs/FeatureServer/1</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This point data layer contains the bus routes for the Regional Transit Authorities of Massachusetts except for the MBTA. Attributes included cover the stop name, Authority, coordinates, zone, and any description (if applicable). The data was obtained from the GTFS feeds on the MassDOT Developers page which were processed into KML files using the python GTFS toolkit. All data is in WGS84.Regional Transportation AuthoritiesBrockton Area Transit (BAT)Berkshire Regional Transportation Authority (BRTA)Cape Ann Transportation Authority (CATA)Cape Cod Transportation Authority (CCRTA)Franklin Regional Transportation Authority (FRTA)Greater Attleboro Taunton Regional Transit Authority (GATRA)Lowell Regional Transit Authority (LRTA)Montachusett Area Regional Transit (MART)Merrimack Valley Regional Transit Authority (MVRTA)MetroWest Regional Transit Authority (MWRTA)Nantucket Regional Transit Authority (NRTA)Pioneer Valley Regional Transit Authority (PVRTA)Southeastern Regional Transit Authority (SRTA)Vineyard Regional Transit Authority (VRTA)Worcester Regional Transit Authority (WRTA)</abstract>
+            <purpose>This point data layer contains the bus routes for the Regional Transit Authorities of Massachusetts except for the MBTA.</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-73.59190748618295</westbc>
+                <eastbc>-69.75220872471479</eastbc>
+                <northbc>42.95641412445954</northbc>
+                <southbc>41.16625796553124</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>MassDOT</themekey>
+                <themekey>RTA</themekey>
+                <themekey>Bus</themekey>
+                <themekey>Stops</themekey>
+                <themekey>Multimodal</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>This data is in the public domain and therefore can be used by anyone for any purpose. MassDOT shall not be held liable for any errors in this data. This includes errors of omission, commission, errors concerning the content of the data, and relative and positional accuracy of the data. This data cannot be construed to be a legal document. Primary sources from which this data was compiled must be consulted for verification of information contained in this data.</useconst>
+        <datacred>Massachusetts Department of Transportation</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metai
