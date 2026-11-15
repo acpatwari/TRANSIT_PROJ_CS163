@@ -45,7 +45,7 @@ tracts_df.plot(column="stop_count", cmap="magma_r", legend=True)
 plt.title("MA Bus Stops")
 
 # make bar plot
-sns.histplot(data=tracts_df, x="stop_count", bins=30)
+sns.histplot(data=tracts_df, x="stop_count", bins=60)
 
 plt.xlabel("Number of Stops in Tract")
 plt.ylabel("Number of Tracts")

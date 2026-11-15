@@ -6,13 +6,13 @@ Key Table Information
 
 Table Title
 
-  Mean Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars)
+  Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars)
   
 -------------------------------------------------------------------------------------------------------------
 
 Table ID
 
-  ACSST5Y2024.S1902
+  ACSST5Y2024.S1901
   
 -------------------------------------------------------------------------------------------------------------
 
@@ -102,6 +102,12 @@ Symbols
   
 -------------------------------------------------------------------------------------------------------------
 
+Data-Specific Notes
+
+  When information is missing or inconsistent, the Census Bureau logically assigns an acceptable value using the response to a related question or questions. If a logical assignment is not possible, data are filled using a statistical process called allocation, which uses a similar individual or household to provide a donor value. The \"Allocated\" section is the number of respondents who received an allocated value for a particular subject.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
 =============================================================================================================
 Additional Information
 =============================================================================================================
@@ -114,6 +120,6 @@ Contact Information
 
 Suggested Citation
 
-  U.S. Census Bureau. \"Mean Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars)\" American Community Survey, ACS 5-Year Estimates Subject Tables, Table S1902, 2024, https://data.census.gov/table/ACSST5Y2024.S1902?q=S1902: Accessed on November 12, 2026.
+  U.S. Census Bureau. \"Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars)\" American Community Survey, ACS 5-Year Estimates Subject Tables, Table S1901, 2024, https://data.census.gov/table/ACSST5Y2024.S1901?q=S1901: Accessed on April 15, 2026.
   
 -------------------------------------------------------------------------------------------------------------
